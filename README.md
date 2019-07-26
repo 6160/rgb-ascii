@@ -1,3 +1,3 @@
 # rgb-ascii
 
-(./screenshot.jpg)
+(https://github.com/6160/rgb-ascii/blob/master/screenshot.jpg)
